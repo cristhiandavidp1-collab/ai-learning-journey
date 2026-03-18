@@ -1,6 +1,6 @@
 #My interactive developer profile
-name = input ("What´s your name? ")
-age = input ("How old are you? ")
+name = input("What´s your name? ")
+age = input("How old are you? ")
 specialization = input ("What do you what to specialize in? ")
 
 print("-----------------")
